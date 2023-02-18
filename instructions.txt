@@ -1,0 +1,4 @@
+DB_URL = "mongodb+srv://<dbName>:<dbPassword>@cluster0.fkm24.
+mongodb.net/?retryWrites=true&w=majority"
+DB_NAME = "carsApp"
+COLLECTION_NAME = "cars1"
