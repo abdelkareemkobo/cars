@@ -14,4 +14,3 @@ This is a simple website build with fastapi and react
 # Table of contents 
 - fronted 
 - backend 
-# Illustrations 
